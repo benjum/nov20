@@ -1,2 +1,5 @@
 # here's an example of multiplication
 6 = 2 * 3
+
+# here's an example of addition
+5 = 2 + 3
