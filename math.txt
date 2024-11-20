@@ -1,0 +1,2 @@
+# here's an example of multiplication
+6 = 2 * 3
